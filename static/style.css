@@ -26,7 +26,7 @@ body {
     position: absolute;
     bottom: 30px;
     right: 30px;
-    border:10px yellow solid;
+    
 }
 
 /* CONTENT IS CLOSE */
@@ -39,7 +39,7 @@ body {
     z-index: -123456;
     opacity: 0;
     transition: all .5s ease-in-out;
-    border:10px rgb(54, 19, 182) solid;
+    
 }
 
 /* CONTENT ISOPEN */
@@ -47,7 +47,7 @@ body {
     transform: translateY(-40px);
     z-index: 123456;
     opacity: 1;
-    border:10px rgb(171, 22, 22) solid;
+    
 
 }
 
