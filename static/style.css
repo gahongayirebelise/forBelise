@@ -203,15 +203,3 @@ body {
     cursor: pointer;
 }
 
-body .mine_class{
-    border: 5px solid cyan;
-    width: 1000px;
-    height: 600;
-    background-color: red;
-}
-
-#mine_class{
-    border: 5px cyan solid;
-    width: 600px;
-    height: 600;
-}
