@@ -77,7 +77,7 @@ body {
 }
 
 .messages__item {
-    background: rgb(255, 0, 0);
+    background: rgb(202, 34, 34);
     max-width: 60.6%;
     width: fit-content;
 }
