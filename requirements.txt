@@ -1,0 +1,6 @@
+detectlanguage
+flask
+numpy
+requests
+torch
+gunicorn
