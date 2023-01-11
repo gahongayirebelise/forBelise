@@ -4,3 +4,4 @@ numpy
 requests
 torch
 gunicorn
+nltk
